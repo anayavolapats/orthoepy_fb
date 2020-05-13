@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">orthoepy</string>
+    <string name="welcome">Добро пожаловать в orthoepy!</string>
+    <string name="what_app_is_it">Лучший помощник в изучении правил орфоэпии русского языка. Начните пользование прямо сейчас, или зарегистрируйтесь</string>
+    <string name="register_text">Давайте знакомиться!</string>
+    <string name="name_label">Имя</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="register_button_text">Зарегистрироваться</string>
+    <string name="words_title">Слова</string>
+    <string name="settings_title">Настройки</string>
+    <string name="education_title">Обучение</string>
+    <string name="user_title">Кабинет</string>
+    <string name="search_title">Поиск</string>
+    <string name="main_navigation_transition">MainNavigationView</string>
+    <string name="bottom_app_bar_transition">BAB transition</string>
+    <string name="floating_action_button_transition">FAB transition</string>
+</resources>

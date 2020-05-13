@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37381541743",
+    "firebase_url": "https://orthoepy-8cce6.firebaseio.com",
+    "project_id": "orthoepy-8cce6",
+    "storage_bucket": "orthoepy-8cce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37381541743:android:2565c5f89f27a65fa9629a",
+        "android_client_info": {
+          "package_name": "com.example.orthoepy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37381541743-ju8gu3tkjnedqabk5lf0mk1g16fb9t0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdepuCB49Pq7nNRbJN-zHJVOyd7FTp_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37381541743-ju8gu3tkjnedqabk5lf0mk1g16fb9t0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
